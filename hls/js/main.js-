@@ -1,0 +1,7 @@
+const videoBox = React.createClass({
+	render: function() {
+		return (
+			<video>
+		)
+	}
+});
