@@ -7,7 +7,7 @@ var play_button = document.getElementById('play-button'),
 
 function play() {
   player.pause();
-  player.src({ type: 'application/x-mpegURL', src: m3u8_url.value });
+  player.src({ type: 'application/vnd.apple.mpegurl', src: m3u8_url.value });
   player.play();
 }
 
