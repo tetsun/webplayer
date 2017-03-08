@@ -1,5 +1,5 @@
 webplayer
 =========
 
-- https://shunkou.github.io/webplayer/hls/
-- https://shunkou.github.io/webplayer/dash/
+- https://tetsun.github.io/webplayer/hls/
+- https://tetsun.github.io/webplayer/dash/
